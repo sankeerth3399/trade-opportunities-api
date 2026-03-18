@@ -94,5 +94,12 @@ trade_api/
 
 Reports are cached for 5 minutes. Add `?refresh=true` to bypass cache.
 
+**live links:**
 
-"Note: Hosted on Render free tier — first load may take ~60 seconds to wake up."
+API Root :     https://trade-opportunities-api.onrender.com
+UI App  :      https://trade-opportunities-api.onrender.com/appAPI 
+Docs   :       https://trade-opportunities-api.onrender.com/docs
+GitHub :       https://github.com/sankeerth3399/trade-opportunities-api
+
+
+**"Note: Hosted on Render free tier — first load may take ~60 seconds to wake up."**

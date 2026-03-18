@@ -93,3 +93,6 @@ trade_api/
 2. `GET /analyze/{sector}` with `Authorization: Bearer <token>` → get markdown report
 
 Reports are cached for 5 minutes. Add `?refresh=true` to bypass cache.
+
+
+"Note: Hosted on Render free tier — first load may take ~60 seconds to wake up."

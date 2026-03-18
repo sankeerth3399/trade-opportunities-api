@@ -62,9 +62,9 @@ async def health_check():
 async def root():
     return {
         "message": "Trade Opportunities API",
-        "ui": "http://localhost:8000/app",
-        "docs": "http://localhost:8000/docs",
-        "health": "http://localhost:8000/health",
+        "ui": "https://trade-opportunities-api.onrender.com/app",
+        "docs": "https://trade-opportunities-api.onrender.com/docs",
+        "health": "https://trade-opportunities-api.onrender.com/health",
         "usage": {
             "step_1": "POST /auth/token  ->  get Bearer token",
             "step_2": "GET  /analyze/{sector}  ->  get markdown report",
